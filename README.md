@@ -17,7 +17,7 @@ https://www.springer.com/journal/43657
 
 -----
 
-## Predicted 2023 Impact Factor (Update weekly)
+## Predicted Impact Factor (Update weekly)
 
 > Estimated 2023 citations of published papers in 2021 and 2022 / number of the papers
 
