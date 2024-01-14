@@ -31,13 +31,9 @@ https://www.springer.com/journal/43657
 
 ## Monthly Impact Factor (Update monthly)
 
-> Monthly citations / (Number of published papers in 2021 and 2022) # might be revised recently
+> Monthly citations / (Number of published papers in 2021 and 2022) # need revision
 
-![each_month_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2023.png)
-
-> Monthly citations / (Number of published papers in 2021 and 2022) # might be revised recently
-
-![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2024.png)
+![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_month_IF.png)
 
 -----
 
@@ -45,9 +41,13 @@ https://www.springer.com/journal/43657
 
 > Cumulated 2023 citations of published papers in 2021 and 2022 / number of the papers
 
-![each_week_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024.png)
+![each_month_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2023.png)
 
 > Cumulated 2024 citations of published papers in 2022 and 2023 / number of the papers
+
+![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2024.png)
+
+-----
 
 ## All *Phenomics* online papers (Update weekly)
 
