@@ -29,7 +29,7 @@ https://www.springer.com/journal/43657
 
 > Monthly citations / (Number of published papers in 2021 and 2022) # might be revised recently
 
-![each_month_IF.png](https://github.com/IanHugh/blob/main/Phenomics/Weekly%20Figures/each_month_IF.png)
+![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_month_IF.png)
 
 -----
 
