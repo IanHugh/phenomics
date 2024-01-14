@@ -21,7 +21,11 @@ https://www.springer.com/journal/43657
 
 > Estimated 2023 citations of published papers in 2021 and 2022 / number of the papers
 
-![fig_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF.png)
+![fig_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2023.png)
+
+> Estimated 2024 citations of published papers in 2022 and 2023 / number of the papers
+
+![fig_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024.png)
 
 -----
 
@@ -29,9 +33,21 @@ https://www.springer.com/journal/43657
 
 > Monthly citations / (Number of published papers in 2021 and 2022) # might be revised recently
 
-![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_month_IF.png)
+![each_month_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2023.png)
+
+> Monthly citations / (Number of published papers in 2021 and 2022) # might be revised recently
+
+![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2024.png)
 
 -----
+
+## Weekly Impact Factor (Update weekly)
+
+> Cumulated 2023 citations of published papers in 2021 and 2022 / number of the papers
+
+![each_week_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024.png)
+
+> Cumulated 2024 citations of published papers in 2022 and 2023 / number of the papers
 
 ## All *Phenomics* online papers (Update weekly)
 
