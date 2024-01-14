@@ -31,7 +31,7 @@ https://www.springer.com/journal/43657
 
 ## Monthly Impact Factor (Update monthly)
 
-> Monthly citations / (Number of published papers in 2021 and 2022) # need revision
+> Monthly citations / (Number of published papers in 2021 and 2022) # Pending revision
 
 ![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_month_IF.png)
 
@@ -59,14 +59,14 @@ https://www.springer.com/journal/43657
 <!-- fig4 增量趋势图 每周修改 -->
 ![fig4.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig4.png)
 
-- Citation index of papers classified (pending revision, which is scheduled to next week)
+- Citation index of papers classified # Pending revision, which is scheduled to next week
 <!-- fig5 文章分类引用图 每周修改 -->
 ![fig5.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig5.png)
 
 <!-- 每周修改 -->
 - See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/all_Phenomics_paper_metrics.xlsx)
 
-- Paper subject distribution
+- Paper subject distribution # Updation temporarily paused
 <!-- fig3 subject分布图 暂不修改 -->
 ![fig3.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig3.png)
 
