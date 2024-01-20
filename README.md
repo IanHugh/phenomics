@@ -21,11 +21,11 @@ https://www.springer.com/journal/43657
 
 > Estimated 2023 citations of published papers in 2021 and 2022 / number of the papers
 
-![fig_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2023_new.png)
+![fig_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2023.png)
 
 > Estimated 2024 citations of published papers in 2022 and 2023 / number of the papers
 
-![fig_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024_new.png)
+![fig_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024.png)
 
 -----
 
@@ -45,7 +45,7 @@ https://www.springer.com/journal/43657
 
 > Cumulated 2024 citations of published papers in 2022 and 2023 / number of the papers
 
-![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2024_new.png) 
+![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/each_week_IF_2024.png) 
 
 -----
 
