@@ -10,7 +10,11 @@ https://www.springer.com/journal/43657
 ## All *Phenomics* submitted papers (Update monthly)
 
 <!-- 月初修改 -->
-![fig1.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig1.png)
+![fig1_1.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig1_1.png)
+
+![fig1_2.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig1_2.png)
+
+![fig1_3.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig1_3.png)
 
 - See [*Phenomics* Monthly Report](https://kdocs.cn/l/clR9KnB3xKQp)
 
