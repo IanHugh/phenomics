@@ -63,8 +63,8 @@ https://www.springer.com/journal/43657
 <!-- fig4 增量趋势图 每周修改 -->
 ![fig4.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig4.png)
 
-- Citation index of papers classified # Pending revision, which is scheduled to next week
-!-- fig5 文章分类引用图 每周修改 --
+- Citation index of papers classified
+<!-- fig5 文章分类引用图 每周修改 -->
 ![fig5.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig5.png)
 
 <!-- 每周修改 -->
