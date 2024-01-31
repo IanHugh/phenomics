@@ -68,7 +68,7 @@ https://www.springer.com/journal/43657
 ![fig5.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig5.png)
 
 <!-- 每周修改 -->
-- See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/PublicationsInfo.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/all_Phenomics_paper_metrics.xlsx)
+- See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/all_Phenomics_paper_metrics.xlsx)
 
 - Paper subject distribution # Updation temporarily paused
 <!-- fig3 subject分布图 暂不修改 -->
