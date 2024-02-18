@@ -31,6 +31,12 @@ https://www.springer.com/journal/43657
 
 ![fig_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig_IF_2024.png)
 
+> IF by Web of Science data
+
+![WOS_2024_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/WOS_2024_IF.png)
+
+![WOS_2023_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/WOS_2023_IF.png)
+
 -----
 
 ## Monthly Impact Factor (Update monthly)
@@ -68,7 +74,9 @@ https://www.springer.com/journal/43657
 ![fig5.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/fig5.png)
 
 <!-- 每周修改 -->
-- See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/all_Phenomics_paper_metrics.xlsx)
+- See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/all_Phenomics_paper_metrics.xlsx).
+
+- [Download new citation details this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly%20Figures/2024-02-18_new_citations.xlsx).
 
 - Paper subject distribution # Updation temporarily paused
 <!-- fig3 subject分布图 暂不修改 -->
