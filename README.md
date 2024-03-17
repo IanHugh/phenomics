@@ -21,41 +21,25 @@ https://www.springer.com/journal/43657
 
 -----
 
-## Predicted Impact Factor (Update weekly)
+## Predicted and Cumulative Weekly Impact Factor (Update weekly)
 
-> Estimated 2023 citations of published papers in 2021 and 2022 / number of the papers
+> Impact Factor by Web of Science data
 
-![fig_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/fig_IF_2023.png)
-
-> Estimated 2024 citations of published papers in 2022 and 2023 / number of the papers
-
-![fig_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/fig_IF_2024.png)
-
-> IF by Web of Science data
-
-![WOS_2024_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/WOS_2024_IF.png)
-
-![WOS_2023_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/WOS_2023_IF.png)
+![Joint_WOS_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/Joint_WOS_IF.png)
 
 -----
 
-## Monthly Impact Factor (Update monthly)
+<!-- ## Monthly Impact Factor (Update monthly) -->
 
-> Monthly citations / (Number of published papers in 2021 and 2022) # Pending revision
+<!-- > Monthly citations / (Number of published papers in 2021 and 2022) # Pending revision -->
 
-![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/each_month_IF.png)
+<!-- ![each_month_IF.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/each_month_IF.png) -->
 
------
+<!-- ----- -->
 
-## Weekly Impact Factor (Update weekly)
+> Cumulative Impact Factor of 2023 and 2024
 
-> Cumulated 2023 citations of published papers in 2021 and 2022 / number of the papers
-
-![each_month_IF_2023.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/each_week_IF_2023.png)
-
-> Cumulated 2024 citations of published papers in 2022 and 2023 / number of the papers
-
-![each_month_IF_2024.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/each_week_IF_2024.png) 
+![IF_Prediction_Combined.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/IF_Prediction_Combined.png)
 
 -----
 
@@ -63,11 +47,11 @@ https://www.springer.com/journal/43657
 
 - Paper type and citation distribution
 <!-- fig2 文章分布、citation分布图 每周修改-->
-![fig2.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/fig2.png)
+![Year_Citation_Distribution.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/Year_Citation_Distribution.png)
 
 - Paper metrics
 <!-- fig4 增量趋势图 每周修改 -->
-![fig4.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/fig4.png)
+![Access_Citation_Altmetric.png](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/Access_Citation_Altmetric.png)
 
 <!-- - Citation index of papers classified -->
 <!-- fig5 文章分类引用图 每周修改 -->
