@@ -1,4 +1,5 @@
 # Journal *Phenomics*
+#### Latest Update: 2024-07-14
 
 ## *Phenomics* webpage 
 
@@ -60,7 +61,7 @@ https://www.springer.com/journal/43657
 <!-- 每周修改 -->
 - See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/all_Phenomics_paper_metrics.xlsx).
 
-- [Download new citation details this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2024-06-16_new_citations.xlsx).
+- [Download new citation details this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2024-07-13_new_citations.xlsx).
 
 <!-- - Paper subject distribution # Updation temporarily paused -->
 <!-- fig3 subject分布图 暂不修改 -->
