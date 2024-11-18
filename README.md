@@ -6,8 +6,6 @@
 
 https://www.springer.com/journal/43657
 
-https://www.editorialmanager.com/pnmc/default.aspx
-
 -----
 
 
