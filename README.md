@@ -1,6 +1,6 @@
 # Journal *Phenomics*
 
-  #### Latest Update: 2024-12-29
+  #### Latest Update: 2025-01-06 04:01
 
 ## *Phenomics* webpage 
 
@@ -63,9 +63,9 @@ https://www.springer.com/journal/43657
 <!-- - See [details about each online paper](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/README.md) or [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/all_Phenomics_paper_metrics.xlsx). -->
 - See details about each online paper by [download as Excel](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/all_Phenomics_paper_metrics.xlsx).
 
-- [Download new citation details this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2024-12-29_new_citations.xlsx).
+- [Download new citation details this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2025-01-06_new_citations.xlsx).
 
-- [Download all citation details till this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2024-12-29_citations_details.xlsx).
+- [Download all citation details till this week](https://github.com/IanHugh/Phenomics/blob/main/Weekly_Figures/2025-01-06_citations_details.xlsx).
 
 -----
 
